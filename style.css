@@ -1,0 +1,60 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222; 
+  }
+  
+body{
+    background-color: #ffcee3;
+   }
+  
+.container {
+    width: 45%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+
+  }
+  
+#picture {
+    width: 100%;
+    margin-right: 1rem;
+    border-radius: 8px;
+  }
+  
+#explanation {
+    letter-spacing: 0px;
+    line-height: 20px;
+}
+
+div.image{
+    width: 50%;
+    background-color:  palevioletred;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    border-radius: 8px;
+}
+
+div.container-text{
+    background-color:  palevioletred;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size:12px;
+}
+
+
+.like_button{
+    background-color: white;
+    color: black;
+    border-width: thin;
+    border-radius: 5px;
+    padding: 10px 15px;
+
+}
+
+h1{
+  color: palevioletred;
+}
+
+h4{
+  color: rgb(167, 82, 155);
+}
